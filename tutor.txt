@@ -1,7 +1,7 @@
 public class Tutor {
-    Celular celular= new Celular();
+    Telefono telefono = new Telefono();
 
-    public Celular getCelular(){
-        return celular;
+    public Telefono getTelefono(){
+        return telefono;
     }
 }
